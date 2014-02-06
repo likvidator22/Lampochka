@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_camera">У тебя нет камеры, лох.</string>
+    <string name="no_flash">У тебя нет вспышки, лашара.</string>
+    <string name="app_name">Лампочка</string>
+</resources>
