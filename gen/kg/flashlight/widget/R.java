@@ -19,15 +19,33 @@ public final class R {
         public static final int on=0x7f020002;
     }
     public static final class id {
-        public static final int btnSwitch=0x7f080000;
+        public static final int ImageView01=0x7f080002;
+        public static final int TextView01=0x7f080003;
+        public static final int TextView02=0x7f080007;
+        public static final int TextView03=0x7f080008;
+        public static final int btnSwitch=0x7f080009;
+        public static final int imageView1=0x7f080005;
+        public static final int textView2=0x7f080000;
+        public static final int textView3=0x7f080006;
+        public static final int textView4=0x7f080001;
+        public static final int textView5=0x7f080004;
     }
     public static final class layout {
-        public static final int flashlight_widget=0x7f030000;
+        public static final int activity_about=0x7f030000;
+        public static final int flashlight_widget=0x7f030001;
     }
     public static final class string {
         public static final int app_name=0x7f060002;
+        public static final int autor=0x7f060003;
+        public static final int description=0x7f06000a;
+        public static final int go=0x7f060008;
+        public static final int info=0x7f060009;
         public static final int no_camera=0x7f060000;
         public static final int no_flash=0x7f060001;
+        public static final int off=0x7f060007;
+        public static final int on=0x7f060006;
+        public static final int try_again=0x7f060004;
+        public static final int version=0x7f060005;
     }
     public static final class style {
         /** 

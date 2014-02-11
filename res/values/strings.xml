@@ -3,4 +3,12 @@
     <string name="no_camera">У тебя нет камеры, лох.</string>
     <string name="no_flash">У тебя нет вспышки, лашара.</string>
     <string name="app_name">Лампочка</string>
+    <string name="autor">Аффтора ищем тут!</string>
+    <string name="try_again">Повторить попытку</string>
+    <string name="version">версия: 1.1.3</string>
+    <string name="on">ВКЛ</string>
+    <string name="off">ВЫКЛ</string>
+    <string name="go">А теперь закрывай нахуй это окно и пиздуй искать виджет</string>
+    <string name="info">Так то так выглядит эта штуковина</string>
+    <string name="description">Виджет включения вспышки вашего гавнофона.</string>
 </resources>
